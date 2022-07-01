@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FranGarcia94
 - ⚡ I’m an Electrical Engineer
-- 🐍 I’m currently learning Python
 - ☀️ I seek to optimize renewable energies
 - 🔗 How to reach me: [LinkedIn](https://www.linkedin.com/in/francisco-jose-garcia-garces/)
 
