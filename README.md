@@ -1,3 +1,6 @@
+![svg (3)](https://user-images.githubusercontent.com/107102754/177847079-a65f436c-e432-4ba0-a451-78e858cbdabe.svg)
+
+
 # Something about me
 
 - 👋 Hi, I’m @FranGarcia94
