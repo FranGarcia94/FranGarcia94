@@ -1,5 +1,7 @@
 ![svg (3)](https://user-images.githubusercontent.com/107102754/177847079-a65f436c-e432-4ba0-a451-78e858cbdabe.svg)
 
+![](https://raw.githubusercontent.com/FranGarcia94/FranGarcia94/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 # Something about me
 
 - 👋 Hi, I’m @FranGarcia94
