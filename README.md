@@ -8,6 +8,7 @@
 - :computer: I am always looking for tasks that I can automate. 
 - ☀️ Developing renewable energies
 - :chart_with_upwards_trend: Learning about energy markets
+- :snake: Learning Python
 - :basketball: NBA lover
 - :speech_balloon: Feel free to ask me anything
 - 🔗 How to reach me:
