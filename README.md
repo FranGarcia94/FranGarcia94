@@ -14,7 +14,10 @@
 <br></br>
 <a href="https://www.linkedin.com/in/francisco-jose-garcia-garces/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" height="50" alt="linkedin"/></a>
 <a href="https://github.com/FranGarcia94"><img src="https://user-images.githubusercontent.com/107102754/177859604-a9b46590-e3f0-4ad7-ad18-a7ba1433fc17.svg" height="51"/></a>
+<a href="https://frangarcia94.github.io"><img src="https://user-images.githubusercontent.com/107102754/178214999-c2fb4345-3772-4f5d-8bb6-b50f3e363a2b.png" height="51"/></a>
+
 <!--- Origina github image <img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/> --->
+<!---  Website icon: flaticon --->
 
 ## Stats
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGarcia94&theme=chartreuse-dark&border_radius=5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
