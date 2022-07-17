@@ -21,7 +21,7 @@
 
 ## Stats
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGarcia94&theme=chartreuse-dark&border_radius=5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-![](/assets/my-github-user-contribution-one.svg)
+![](github-user-contribution.svg)
 
 
 
