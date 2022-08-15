@@ -1,4 +1,4 @@
-![svg (3)](https://user-images.githubusercontent.com/107102754/177847079-a65f436c-e432-4ba0-a451-78e858cbdabe.svg)
+![header](https://user-images.githubusercontent.com/107102754/184696398-273f0c28-9ec5-43c8-bb6a-a3d25fb4186f.png)
 
 # Something about me
 
