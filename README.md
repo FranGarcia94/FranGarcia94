@@ -37,7 +37,8 @@
   <img alt="Matlab" src="https://img.shields.io/badge/Matlab-FA7343?style=for-the-badge&logo=matrix&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -48,6 +49,10 @@
 
 <p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-darkred?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
