@@ -29,3 +29,25 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 
 ![Views](https://komarev.com/ghpvc/?username=FranGarcia94&style=plastic&color=blueviolet)
+
+## 💻 Languages / Frameworks
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Matlab" src="https://img.shields.io/badge/Matlab-FA7343?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Office" src="https://img.shields.io/badge/Office-green?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-darkred?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
