@@ -1,11 +1,13 @@
 ![header](https://user-images.githubusercontent.com/107102754/184701662-a038e2ac-59f0-4832-a0cb-0fbb67b6776f.png)
 
 
+<img align="right" width="420" height="420" src="https://user-images.githubusercontent.com/107102754/195141439-d0e5d508-e125-4056-bb6f-a506a4fe2301.gif">
+
 # Something about me
 
 - 👋 Hi, I’m @FranGarcia94
 - ⚡ I’m an Electrical Engineer
-- :computer: I am always looking for tasks that I can automate. 
+- :computer: I always seek to improve myself
 - ☀️ Developing renewable energies
 - :chart_with_upwards_trend: Learning about energy markets
 - :snake: Learning Python
