@@ -28,8 +28,6 @@
 
 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
-
 ![Views](https://komarev.com/ghpvc/?username=FranGarcia94&style=plastic&color=blueviolet)
 
 ## 💻 Languages / Frameworks
