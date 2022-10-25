@@ -23,7 +23,9 @@
 <!---  Website icon: flaticon --->
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGarcia94&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGarcia94&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](github-user-contribution.svg)
 
 
