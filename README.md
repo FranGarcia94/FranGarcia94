@@ -57,3 +57,9 @@
   <img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
+
+
+## To end with a smile...
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Jokes Card" />
+</p>
