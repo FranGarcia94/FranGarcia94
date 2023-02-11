@@ -26,7 +26,7 @@
 
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranGarcia94&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](github-user-contribution.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/107102754/218269773-dc8bb4af-c357-4217-96d2-a46e76e08a47.svg)
 
 
 
