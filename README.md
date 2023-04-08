@@ -6,7 +6,7 @@
 # Something about me
 
 - 👋 Hi, I’m @FranGarcia94
-- ⚡ I’m an Electrical Engineer
+- ⚡ Electrical Engineer
 - :computer: I always seek to improve myself
 - ☀️ Developing renewable energies
 - :chart_with_upwards_trend: Learning about energy markets
@@ -15,9 +15,8 @@
 - :speech_balloon: Feel free to ask me anything
 - 🔗 How to reach me:
 <br></br>
-<a href="https://www.linkedin.com/in/francisco-jose-garcia-garces/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" height="50" alt="linkedin"/></a>
-<a href="https://github.com/FranGarcia94"><img src="https://user-images.githubusercontent.com/107102754/177859604-a9b46590-e3f0-4ad7-ad18-a7ba1433fc17.svg" height="51"/></a>
-<a href="https://frangarcia94.github.io"><img src="https://user-images.githubusercontent.com/107102754/178214999-c2fb4345-3772-4f5d-8bb6-b50f3e363a2b.png" height="51"/></a>
+<a href="https://www.linkedin.com/in/francisco-jose-garcia-garces/"><img src="https://user-images.githubusercontent.com/107102754/230717580-ee7808f4-a7ce-4b5a-a6a7-32eb01a2fd4a.png" height="71" alt="linkedin"/></a>
+<a href="https://frangarcia94.github.io"><img src="https://user-images.githubusercontent.com/107102754/230717531-4d7e3101-878a-4fc0-807b-39f948985dde.png" height="71"/></a>
 
 <!--- Origina github image <img src="https://img.icons8.com/plasticine/100/000000/github-squared.png"/> --->
 <!---  Website icon: flaticon --->
