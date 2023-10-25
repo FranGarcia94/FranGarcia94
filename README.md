@@ -8,7 +8,6 @@
 - 👋 Hi, I’m @FranGarcia94
 - ⚡ Electrical Engineer
 - :computer: I always seek to improve myself
-- ☀️ Developing renewable energies
 - :chart_with_upwards_trend: Learning about energy markets
 - :snake: Learning Python
 - :basketball: NBA lover
